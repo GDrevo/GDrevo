@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Ruby, Ruby on Rails, HTML, CSS**
+- 💬 Ask me about **Ruby, Ruby on Rails, HTML, CSS, Javascript**
 
 - 📫 How to reach me **guillaume.drevo@gmail.com**
 

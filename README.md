@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillaume</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 🔭 I’m currently working on [a Concierge Web App](https://github.com/GDrevo/ConciergeApp2)
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Typescript**
 
 - 💬 Ask me about **Ruby, Ruby on Rails, HTML, CSS, Javascript**
 

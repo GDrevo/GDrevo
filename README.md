@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Guillaume</h1>
-<h3 align="center">A passionate fullstack developer from France</h3>
-
-- 🌱 I’m currently learning **React** and **Next.JS**
-
-- 💬 Ask me about **Ruby, Ruby on Rails, HTML, CSS, Javascript**
 
 - 📫 How to reach me **guillaume.drevo@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/guillaume-drevo/](https://www.linkedin.com/in/guillaume-drevo/)
-
-- ⚡ Fun fact **I am passionate about synths**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
